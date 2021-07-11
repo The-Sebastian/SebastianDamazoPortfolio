@@ -1,2 +1,3 @@
 # SebastianDamazoPortfolio
-My Portfolio
+My Portfolio 
+Sebastian Damazo
