@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'BikeAlertr',
-    description: "bikeAlertr is an Open Source Full Stack Application that takes data from the citiBike public API as well as the Google Maps API to populate citiBike data and allows users to save their favorites stations and deliver alerts to the users when inventory runs low.",
+    description: "BikeAlertr is an Open Source Full Stack Application that renders dynamic data from the citiBike public API as well as the Google Maps API to populate citiBike data and allows users to save their favorites stations and deliver alerts to the users when inventory runs low.",
       image: '/images/bikealertr.png',
       tags: [ 'Node.js', 'Express.js', 'React Hooks','SQL'],
     source: 'https://github.com/The-Sebastian/bikeAlertr',

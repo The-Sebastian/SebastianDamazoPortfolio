@@ -12,7 +12,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range of technologies in the web development world.
-      I am proficient in JavaScript, Python and Java with the following Frameworks.
+      I am proficient in <b style={{color:'white'}}>JavaScript</b>, <b style={{color:'white'}}>Python</b> and <b style={{color:'white'}}>Java</b> with the following Frameworks.
     </SectionText>
     <List>
       <ListItem>

@@ -14,7 +14,7 @@ const Hero = (props) => (
       </SectionTitle>
       <List>
         <SectionText>
-          I'm a Mathematician who found a passion for developing full-stack applications. The purpose of Javascript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome applications.  
+          I'm a Mathematician who found a passion for developing full-stack applications. I love cotributing to the open-source community with my experience in Front-End UX/UI desing and Back-End server architecture.
         </SectionText>
         <Img src={'/images/personal2.jpg'} style={{height:'250px', width:'400px', borderRadius:'10px', boxShadow:'3px 3px 10px rgb(100 100 100 / 100%)'}}/>
       </List>
