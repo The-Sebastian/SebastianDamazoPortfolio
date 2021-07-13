@@ -12,7 +12,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've workedwith a range of technologies in the web development world.
-      From Back-end To Design.
+      I am proficient in JavaScript, Python and Java with the following Frameworks.
     </SectionText>
     <List>
       <ListItem>
@@ -20,8 +20,12 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js
+            React.js <br />
+            React Hooks <br />
+            Redux <br />
+            HTML/CSS/SCSS <br />
+            Material UI <br />
+            
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -30,8 +34,13 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js
+            Node.js <br />
+            Express.js <br />
+            Webpack <br />
+            Babel <br />
+            RESTful API <br />
+  
+
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -40,8 +49,11 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js
+            SQL <br />
+            NoSQL <br />
+            MongoDB <br />
+            PostgreSQL <br />
+            GraphQL <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>

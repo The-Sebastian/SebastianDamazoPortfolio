@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
           The purpose of Javascript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome applications.  
         </SectionText>
-        <Img src={'/images/personal2.jpg'} style={{height:'250px', width:'400px'}}/>
+        <Img src={'/images/personal2.jpg'} style={{height:'250px', width:'400px', borderRadius:'10px', boxShadow:'3px 3px 10px rgb(100 100 100 / 100%)'}}/>
       </List>
       
       <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
