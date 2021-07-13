@@ -18,8 +18,8 @@ const Home = () => {
       <Projects />
       <Technologies />
       <Education />
-      <Timeline />
-      <Acomplishments />
+      {/* <Timeline /> */}
+      {/* <Acomplishments /> */}
     </Layout>
   );
 };

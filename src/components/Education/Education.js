@@ -1,32 +1,35 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend} from 'react-icons/di';
-import {FaServer} from 'react-icons/fa'
+import {GiGraduateCap} from 'react-icons/gi'
+import {RiCodeSSlashFill} from 'react-icons/ri'
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './EducationStyles';
 
 const Education = () =>  (
  
-  <Section id="tech">
+  <Section id="about">
     <SectionDivider/>
     <br />
     <SectionTitle>Education</SectionTitle>
     <List>
       <ListItem>
-        <DiReact size="3rem" />
+        <GiGraduateCap size="3rem" />
+        <br />
         <ListContainer>
           <ListTitle>University of California, Santa Barbara</ListTitle>
           <ListParagraph>
-            Bachelor Of Science <br />
-            With A Major In Mathematical Science
+            Bachelor of Science, <br />
+            Mathematical Science
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <FaServer size="2.5rem" />
+        <RiCodeSSlashFill size="2.5rem" />
+        <br />
         <ListContainer>
           <ListTitle>CodeSmith</ListTitle>
           <ListParagraph>
-            Software Engineering Residency <br />
+            Software Engineering Residency, <br />
+            Computer Software Engineering
             
           </ListParagraph>
         </ListContainer>
