@@ -19,7 +19,7 @@ const Home = () => {
       <Technologies />
       <Education />
       {/* <Timeline /> */}
-      {/* <Acomplishments /> */}
+      <Acomplishments />
     </Layout>
   );
 };

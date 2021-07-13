@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've workedwith a range of technologies in the web development world.
+      I've worked with a range of technologies in the web development world.
       I am proficient in JavaScript, Python and Java with the following Frameworks.
     </SectionText>
     <List>
